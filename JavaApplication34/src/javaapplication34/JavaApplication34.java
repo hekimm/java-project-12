@@ -34,6 +34,7 @@ public class JavaApplication34 {
          {
              System.out.println("Sisteme başarı ile giriş yapıldı !!");
               girisHakki--;
+              break;
          }
          
          else 
